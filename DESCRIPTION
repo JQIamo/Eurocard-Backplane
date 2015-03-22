@@ -1,0 +1,4 @@
+<h1>Eurocard Rack</h1>
+<p>Eagle project containing layouts for the JQI Eurocard rackmount standard.</p>
+<p>Eurocard Backplane: Backplane for Eurocard racks.</p>
+<p>EurocardModule: Starter schematic for a eurocard module.</p>
