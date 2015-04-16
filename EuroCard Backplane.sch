@@ -532,18 +532,6 @@ female, 64 pins, block, type C, rows AC, grid 5.08 mm</description>
 <part name="X6" library="Eurocard-Backplane-jqi" deviceset="FAC64S" device=""/>
 <part name="X7" library="Eurocard-Backplane-jqi" deviceset="FAC64S" device=""/>
 <part name="X8" library="Eurocard-Backplane-jqi" deviceset="FAC64S" device=""/>
-<part name="U$1" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$2" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$3" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$4" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$5" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$6" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$7" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$8" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$9" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$10" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$11" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
-<part name="U$12" library="Eurocard-Backplane-jqi" deviceset="BACKPLANE" device=""/>
 </parts>
 <sheets>
 <sheet>
