@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -4441,13 +4441,6 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <label x="93.98" y="114.3" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
-<net name="MOSI" class="0">
-<segment>
-<pinref part="U2" gate="G$1" pin="MOSI"/>
-<wire x1="241.3" y1="10.16" x2="213.36" y2="10.16" width="0.1524" layer="91"/>
-<label x="213.36" y="10.16" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="SPI_MISO" class="0">
 <segment>
 <wire x1="149.86" y1="50.8" x2="129.54" y2="50.8" width="0.1524" layer="91"/>
@@ -4540,6 +4533,11 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <wire x1="149.86" y1="53.34" x2="129.54" y2="53.34" width="0.1524" layer="91"/>
 <label x="129.54" y="53.34" size="1.778" layer="95"/>
 <pinref part="TEENSY" gate="G$1" pin="11/MOSI"/>
+</segment>
+<segment>
+<pinref part="U2" gate="G$1" pin="MOSI"/>
+<wire x1="241.3" y1="10.16" x2="213.36" y2="10.16" width="0.1524" layer="91"/>
+<label x="213.36" y="10.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GPIO#0" class="0">
