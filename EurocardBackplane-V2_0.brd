@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -9,7 +9,7 @@
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
 <layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
@@ -29,7 +29,7 @@
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
@@ -190,6 +190,7 @@
 <dimension x1="17.78" y1="64.77" x2="2.54" y2="129.667" x3="-7.62" y3="97.2185" textsize="1.778" layer="49" dtype="vertical" unit="inch" precision="3"/>
 <dimension x1="17.78" y1="64.77" x2="0" y2="-0.127" x3="-7.62" y3="32.3215" textsize="1.778" layer="49" dtype="vertical" unit="inch" precision="3"/>
 <dimension x1="0" y1="-0.127" x2="0" y2="129.667" x3="-15.24" y3="64.77" textsize="1.778" layer="49" dtype="vertical" unit="inch" precision="3"/>
+<text x="369.57" y="134.62" size="2.54" layer="21">ADD QR CODE</text>
 </plain>
 <libraries>
 <library name="Eurocard-Backplane-jqi">
