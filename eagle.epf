@@ -7,35 +7,6 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/EAGLE-EMC_COMPONENTS-rev17a.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/Eurocard-Backplane-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/JQI_Logo.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/Lin-Temp-Controller.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/TeensyCustom.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/allegro-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/analog-devices-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/arduino-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/coilcraft-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/connector-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/digital-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/fiducials-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/jqi-power-supply.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/jqi_passives.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/linear-technology-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/microusb.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/opamp-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/optocoupler-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/outside_bill_of_material.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/pinhead.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/regulator-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/rf-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/rlc-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/semiconductor-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/supply1.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/switch-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/texas-instruments-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/eagle/lbr-jqi/transistor-jqi.lbr"
-UsedLibrary="/Users/npisenti/Dropbox/jqi/electronics/projects/hv-piezo-driver/Eurocard-HV-piezo-driver.lbr"
 
 [Win_1]
 Type="Control Panel"
@@ -44,5 +15,5 @@ State=2
 Number=0
 
 [Desktop]
-Screen="1440 900"
+Screen="2560 1440"
 Window="Win_1"
